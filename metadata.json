@@ -1,0 +1,6 @@
+{
+  "name": "弈道 - 圍棋段位鑑定與死活棋研習院",
+  "description": "專業圍棋段位實力鑑定、自適應難度死活棋訓練題庫、實戰對局與棋譜記錄分析，支援多使用者獨立成長記錄與擴充題庫。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
